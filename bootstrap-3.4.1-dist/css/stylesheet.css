@@ -1,0 +1,22 @@
+.gustavo{
+    background-color: red;
+}
+h1{
+    color:red;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    position:relative;
+    right:55%;
+    left:45%;
+}
+h3{
+    color: blue;
+}
+body img{
+position: relative;
+right:65%;
+left:35%;
+}
+body{
+   background-color: gray 
+}
